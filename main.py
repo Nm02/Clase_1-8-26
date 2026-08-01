@@ -1,2 +1,3 @@
-nombre = input("ingrese su nombre: ")
+nombre = input("¿Quein sos?\n ")
 print(f"hola {nombre}")
+
